@@ -14,5 +14,13 @@ Currently the latest version of the processing software is operating on data in 
 
 ##FHIR.json.fhir
 
-This contains the generated dosage strings in JSON FHIR format along with some debugging data.
+This contains allthe the generated dosages in JSON FHIR format along with some debugging data.I know many of these are wrong.
 
+##OrderSentences_Review.json.fhir
+
+This contains a subset of generated dosages which I believe are correct or have only known issues
+
+Know issues are it does not handle:
+
+* Timing specified as **at least** before or after rather than a specific time
+* Timing where **both** a time before and a time after are specified 
