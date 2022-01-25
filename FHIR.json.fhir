@@ -107488,9 +107488,13 @@ row 3898
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107512,9 +107516,13 @@ row 3899
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107536,9 +107544,13 @@ row 3900
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107560,9 +107572,13 @@ row 3901
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107584,9 +107600,13 @@ row 3902
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107608,9 +107628,13 @@ row 3903
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107632,9 +107656,13 @@ row 3904
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107656,9 +107684,13 @@ row 3905
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107680,9 +107712,13 @@ row 3906
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107704,9 +107740,13 @@ row 3907
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107728,9 +107768,13 @@ row 3908
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107752,9 +107796,13 @@ row 3909
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107776,9 +107824,13 @@ row 3910
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107800,9 +107852,13 @@ row 3911
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107824,9 +107880,13 @@ row 3912
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107848,9 +107908,13 @@ row 3913
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107872,9 +107936,13 @@ row 3914
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107896,9 +107964,13 @@ row 3915
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107920,9 +107992,13 @@ row 3916
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107944,9 +108020,13 @@ row 3917
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107968,9 +108048,13 @@ row 3918
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -107992,9 +108076,13 @@ row 3919
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -108016,9 +108104,13 @@ row 3920
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -108040,9 +108132,13 @@ Imiquimod 5% cream 250mg sachets apply to skin 0.004 application three times a w
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -108069,9 +108165,13 @@ row 3922
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108093,9 +108193,13 @@ row 3923
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108117,9 +108221,13 @@ row 3924
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108141,9 +108249,13 @@ row 3925
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108165,9 +108277,13 @@ row 3926
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108189,9 +108305,13 @@ row 3927
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108213,9 +108333,13 @@ row 3928
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108237,9 +108361,13 @@ row 3929
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108261,9 +108389,13 @@ row 3930
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108285,9 +108417,13 @@ row 3931
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108309,9 +108445,13 @@ row 3932
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108333,9 +108473,13 @@ row 3933
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108357,9 +108501,13 @@ row 3934
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108381,9 +108529,13 @@ row 3935
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108405,9 +108557,13 @@ row 3936
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108429,9 +108585,13 @@ row 3937
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108453,9 +108613,13 @@ row 3938
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108477,9 +108641,13 @@ row 3939
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108501,9 +108669,13 @@ row 3940
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108525,9 +108697,13 @@ row 3941
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108549,9 +108725,13 @@ row 3942
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108573,9 +108753,13 @@ row 3943
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108597,9 +108781,13 @@ row 3944
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108621,9 +108809,13 @@ Imiquimod 5% cream 250mg sachets apply to skin 0.004 application three times a w
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -108650,9 +108842,13 @@ row 3946
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108674,9 +108870,13 @@ row 3947
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108698,9 +108898,13 @@ row 3948
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108722,9 +108926,13 @@ row 3949
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108746,9 +108954,13 @@ row 3950
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108770,9 +108982,13 @@ row 3951
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108794,9 +109010,13 @@ row 3952
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108818,9 +109038,13 @@ row 3953
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108842,9 +109066,13 @@ row 3954
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108866,9 +109094,13 @@ row 3955
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108890,9 +109122,13 @@ row 3956
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108914,9 +109150,13 @@ row 3957
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108938,9 +109178,13 @@ row 3958
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108962,9 +109206,13 @@ row 3959
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -108986,9 +109234,13 @@ row 3960
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -109010,9 +109262,13 @@ row 3961
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -109034,9 +109290,13 @@ row 3962
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -109058,9 +109318,13 @@ row 3963
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -109082,9 +109346,13 @@ row 3964
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -109106,9 +109374,13 @@ row 3965
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -109130,9 +109402,13 @@ row 3966
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -109154,9 +109430,13 @@ row 3967
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -109178,9 +109458,13 @@ row 3968
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -109202,9 +109486,13 @@ Imiquimod 5% cream 250mg sachets apply to skin 0.004 application three times a w
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -149245,9 +149533,12 @@ row 5422
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149269,9 +149560,12 @@ row 5423
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149293,9 +149587,12 @@ row 5424
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149317,9 +149614,12 @@ row 5425
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149341,9 +149641,12 @@ row 5426
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149365,9 +149668,12 @@ row 5427
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149389,9 +149695,12 @@ row 5428
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149413,9 +149722,12 @@ row 5429
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149442,9 +149754,12 @@ Gestrinone 2.5mg capsules take 1 capsule twice a week on Monday and Thursday
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149471,9 +149786,12 @@ row 5431
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149495,9 +149813,12 @@ row 5432
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149519,9 +149840,12 @@ row 5433
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149548,9 +149872,12 @@ Oxybutynin 3.9mg/24hours patches apply to skin 24 hours twice a week on Monday a
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149577,9 +149904,12 @@ Estraderm TTS 100 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to ski
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149606,9 +149936,12 @@ Estraderm TTS 25 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149635,9 +149968,12 @@ Estraderm TTS 50 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149664,9 +150000,12 @@ Evorel 50 patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on Mond
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149693,9 +150032,12 @@ Evorel Conti patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on M
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149722,9 +150064,12 @@ Testosterone 300micrograms/24hours patches apply 24000 hours to skin twice a wee
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -149751,9 +150096,12 @@ row 5441
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -149775,9 +150123,12 @@ row 5442
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -149799,9 +150150,12 @@ row 5443
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -149823,9 +150177,12 @@ row 5444
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -149847,9 +150204,12 @@ row 5445
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -149871,9 +150231,12 @@ row 5446
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -149895,9 +150258,12 @@ row 5447
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -149919,9 +150285,12 @@ row 5448
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -149948,9 +150317,12 @@ Gestrinone 2.5mg capsules take 1 capsule twice a week on Thursday and Sunday
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -149977,9 +150349,12 @@ row 5450
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -150001,9 +150376,12 @@ row 5451
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -150025,9 +150403,12 @@ row 5452
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -150054,9 +150435,12 @@ Oxybutynin 3.9mg/24hours patches apply to skin 24 hours twice a week on Thursday
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -150083,9 +150467,12 @@ Estraderm TTS 100 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to ski
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -150112,9 +150499,12 @@ Estraderm TTS 25 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -150141,9 +150531,12 @@ Estraderm TTS 50 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -150170,9 +150563,12 @@ Evorel 50 patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on Thur
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -150199,9 +150595,12 @@ Evorel Conti patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on T
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -150228,9 +150627,12 @@ Testosterone 300micrograms/24hours patches apply 24000 hours to skin twice a wee
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -150257,9 +150659,12 @@ row 5460
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150281,9 +150686,12 @@ row 5461
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150305,9 +150713,12 @@ row 5462
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150329,9 +150740,12 @@ row 5463
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150353,9 +150767,12 @@ row 5464
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150377,9 +150794,12 @@ row 5465
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150401,9 +150821,12 @@ row 5466
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150425,9 +150848,12 @@ row 5467
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150454,9 +150880,12 @@ Gestrinone 2.5mg capsules take 1 capsule twice a week on Tuesday and Friday
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150483,9 +150912,12 @@ row 5469
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150507,9 +150939,12 @@ row 5470
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150531,9 +150966,12 @@ row 5471
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150560,9 +150998,12 @@ Oxybutynin 3.9mg/24hours patches apply to skin 24 hours twice a week on Tuesday 
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150589,9 +151030,12 @@ Estraderm TTS 100 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to ski
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150618,9 +151062,12 @@ Estraderm TTS 25 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150647,9 +151094,12 @@ Estraderm TTS 50 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150676,9 +151126,12 @@ Evorel 50 patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on Tues
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150705,9 +151158,12 @@ Evorel Conti patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on T
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150734,9 +151190,12 @@ Testosterone 300micrograms/24hours patches apply 24000 hours to skin twice a wee
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -150763,9 +151222,12 @@ row 5479
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -150787,9 +151249,12 @@ row 5480
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -150811,9 +151276,12 @@ row 5481
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -150835,9 +151303,12 @@ row 5482
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -150859,9 +151330,12 @@ row 5483
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -150883,9 +151357,12 @@ row 5484
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -150907,9 +151384,12 @@ row 5485
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -150931,9 +151411,12 @@ row 5486
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -150960,9 +151443,12 @@ Gestrinone 2.5mg capsules take 1 capsule twice a week on Wednesday and Saturday
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -150989,9 +151475,12 @@ row 5488
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -151013,9 +151502,12 @@ row 5489
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -151037,9 +151529,12 @@ row 5490
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -151066,9 +151561,12 @@ Oxybutynin 3.9mg/24hours patches apply to skin 24 hours twice a week on Wednesda
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -151095,9 +151593,12 @@ Estraderm TTS 100 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to ski
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -151124,9 +151625,12 @@ Estraderm TTS 25 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -151153,9 +151657,12 @@ Estraderm TTS 50 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -151182,9 +151689,12 @@ Evorel 50 patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on Wedn
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -151211,9 +151721,12 @@ Evorel Conti patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on W
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -151240,9 +151753,12 @@ Testosterone 300micrograms/24hours patches apply 1 patch to skin twice a week on
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [

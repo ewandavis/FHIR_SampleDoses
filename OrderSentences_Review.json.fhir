@@ -1,6 +1,6 @@
 
 
-Last Run 25/01/2022, 12:46:14
+Last Run 25/01/2022, 14:56:12
 
 ========================================================================================================================
 row 3
@@ -88292,9 +88292,13 @@ Imiquimod 5% cream 250mg sachets apply to skin 0.004 application three times a w
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "wed",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -88321,9 +88325,13 @@ Imiquimod 5% cream 250mg sachets apply to skin 0.004 application three times a w
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "thu",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -88350,9 +88358,13 @@ Imiquimod 5% cream 250mg sachets apply to skin 0.004 application three times a w
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 3,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "fri",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -125472,9 +125484,12 @@ row 5429
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -125501,9 +125516,12 @@ Gestrinone 2.5mg capsules take 1 capsule twice a week on Monday and Thursday
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -125530,9 +125548,12 @@ row 5433
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -125559,9 +125580,12 @@ Oxybutynin 3.9mg/24hours patches apply to skin 24 hours twice a week on Monday a
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -125588,9 +125612,12 @@ Estraderm TTS 100 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to ski
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -125617,9 +125644,12 @@ Estraderm TTS 25 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -125646,9 +125676,12 @@ Estraderm TTS 50 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -125675,9 +125708,12 @@ Evorel 50 patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on Mond
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -125704,9 +125740,12 @@ Evorel Conti patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on M
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -125733,9 +125772,12 @@ Testosterone 300micrograms/24hours patches apply 24000 hours to skin twice a wee
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "mon",
+                "thu"
+            ]
         }
     },
     "doseAndRate": [
@@ -125762,9 +125804,12 @@ row 5448
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -125791,9 +125836,12 @@ Gestrinone 2.5mg capsules take 1 capsule twice a week on Thursday and Sunday
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -125820,9 +125868,12 @@ row 5452
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -125849,9 +125900,12 @@ Oxybutynin 3.9mg/24hours patches apply to skin 24 hours twice a week on Thursday
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -125878,9 +125932,12 @@ Estraderm TTS 100 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to ski
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -125907,9 +125964,12 @@ Estraderm TTS 25 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -125936,9 +125996,12 @@ Estraderm TTS 50 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -125965,9 +126028,12 @@ Evorel 50 patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on Thur
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -125994,9 +126060,12 @@ Evorel Conti patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on T
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -126023,9 +126092,12 @@ Testosterone 300micrograms/24hours patches apply 24000 hours to skin twice a wee
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "thu",
+                "sun"
+            ]
         }
     },
     "doseAndRate": [
@@ -126052,9 +126124,12 @@ row 5467
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -126081,9 +126156,12 @@ Gestrinone 2.5mg capsules take 1 capsule twice a week on Tuesday and Friday
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -126110,9 +126188,12 @@ row 5471
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -126139,9 +126220,12 @@ Oxybutynin 3.9mg/24hours patches apply to skin 24 hours twice a week on Tuesday 
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -126168,9 +126252,12 @@ Estraderm TTS 100 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to ski
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -126197,9 +126284,12 @@ Estraderm TTS 25 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -126226,9 +126316,12 @@ Estraderm TTS 50 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -126255,9 +126348,12 @@ Evorel 50 patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on Tues
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -126284,9 +126380,12 @@ Evorel Conti patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on T
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -126313,9 +126412,12 @@ Testosterone 300micrograms/24hours patches apply 24000 hours to skin twice a wee
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "tue",
+                "fri"
+            ]
         }
     },
     "doseAndRate": [
@@ -126342,9 +126444,12 @@ row 5486
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -126371,9 +126476,12 @@ Gestrinone 2.5mg capsules take 1 capsule twice a week on Wednesday and Saturday
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -126400,9 +126508,12 @@ row 5490
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -126429,9 +126540,12 @@ Oxybutynin 3.9mg/24hours patches apply to skin 24 hours twice a week on Wednesda
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -126458,9 +126572,12 @@ Estraderm TTS 100 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to ski
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -126487,9 +126604,12 @@ Estraderm TTS 25 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -126516,9 +126636,12 @@ Estraderm TTS 50 patches (Novartis Pharmaceuticals UK Ltd) apply 1 patch to skin
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -126545,9 +126668,12 @@ Evorel 50 patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on Wedn
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -126574,9 +126700,12 @@ Evorel Conti patches (Janssen-Cilag Ltd) apply 1 patch to skin twice a week on W
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
@@ -126603,9 +126732,12 @@ Testosterone 300micrograms/24hours patches apply 1 patch to skin twice a week on
     "timing": {
         "repeat": {
             "periodUnit": "wk",
-            "frequency": 0,
+            "frequency": 2,
             "period": 1,
-            "dayOfWeek": []
+            "dayOfWeek": [
+                "wed",
+                "sat"
+            ]
         }
     },
     "doseAndRate": [
