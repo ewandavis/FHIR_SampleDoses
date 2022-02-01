@@ -1,0 +1,74 @@
+{ "dosageInstruction": [ { 
+    "sequence": 1, 
+    "text": "Take 1 Tablet oral route 30 minutes before or 60 minutes after lunch", 
+    "method": {
+        "text": "Take", 
+        "coding": [
+             { "code": "419652001",
+                "system": "http://snomed.info/ct", 
+                "display": "Take" } ] }, 
+                "doseAndRate": [ 
+                    { "type": 
+                        { "coding": [ {
+                            "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                            "code": "ordered", 
+                            "display": "Ordered" } 
+                            ] 
+                        }, 
+                            "doseQuantity": { 
+                                "code": "C48542", 
+                                "unit": "tablet", 
+                                "system": "http://unitsofmeasure.org", 
+                                "value": 1
+                                } 
+                                } 
+                                ], 
+                                "route": { 
+                                    "text": "oral route", 
+                                    "coding": [ { "code": "26643006", 
+                                    "system": "http://snomed.info/ct", 
+                                    "display": "oral route" 
+                                    }
+                                    ]
+                                  }, 
+                                  
+                                  "timing": { 
+                                      "repeat": { 
+                                          "frequency": 1, 
+                                          "frequencyMax": 1, 
+                                          "period": 1, 
+                                          "periodUnit": "d", 
+                                          "when": [ "CD" ], "offset": -30 }, "code": { "text": "30 mins before lunch" } }, 
+                                "maxDosePerAdministration": {
+                                "value": 10, 
+                                "unit": "mg", 
+                                "system": "http://unitsofmeasure.org", 
+                                "code": "mg" }
+                                 }, 
+        { "sequence": 1, 
+            "text": "or", 
+            "method": { 
+                "text": "Or", 
+                "coding": [ { 
+                    "code": "420561004", 
+                    "system": "http://snomed.info/ct", 
+                    "display": "Or" } ] } }, { 
+        "sequence": 1, 
+        "text": "m hours after eventx", 
+        "timing": { 
+            "repeat": { 
+            "frequency": 1, 
+            "frequencyMax": 1,
+            "period": 1, 
+            "periodUnit": "d", 
+            "when": [ 
+                "CD" 
+                ], 
+                "offset": 60 }, 
+        "code": { 
+        "text": "60 mins after lunch"
+         } 
+    } 
+    }
+     ]
+    }
