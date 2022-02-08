@@ -1,4 +1,35 @@
 
 
-Last Run 03/02/2022, 14:55:37
+Last Run 08/02/2022, 17:24:04
 
+========================================================================================================================
+row 2
+
+AeroBec Forte 250 Autohaler (Meda Pharmaceuticals Ltd) inhale 2 doses twice a day
+
+{
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 2,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "puff",
+                "system": "http://unitsofmeasure.org",
+                "code": "415215001"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": "112239003",
+            "display": "inhalation"
+        }
+    }
+}

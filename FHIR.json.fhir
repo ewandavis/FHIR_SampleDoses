@@ -1,31 +1,31 @@
 ========================================================================================================================
 row 2
 
-1 mg Digoxin 500micrograms/2ml solution for injection ampoules intravenous once only Infuse in 100ml Glucose 5% over at least 30 minutes
+AeroBec Forte 250 Autohaler (Meda Pharmaceuticals Ltd) inhale 2 doses twice a day
 
 {
     "timing": {
         "repeat": {
             "periodUnit": "d",
-            "frequency": 1,
+            "frequency": 2,
             "period": 1
         }
     },
     "doseAndRate": [
         {
             "doseQuantity": {
-                "value": "1",
-                "unit": "mg",
+                "value": "2",
+                "unit": "puff",
                 "system": "http://unitsofmeasure.org",
-                "code": "258684004"
+                "code": "415215001"
             }
         }
     ],
     "route": {
         "coding": {
             "system": "http://snomed.info/sct",
-            "code": "47625008",
-            "display": "intravenous"
+            "code": "112239003",
+            "display": "inhalation"
         }
     }
 }
