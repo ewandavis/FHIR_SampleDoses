@@ -1,0 +1,112 @@
+{"Date" : "05-05-2022-09:10:46",
+"FHIR Dosage Samples": 
+[{
+"row" : 2,
+"dmd" : 322236009,
+"order sentence" : "paracetamol 500 mg tablets take 2 tablets four times a day",
+"dosage" :
+{
+    "text": "take 2 tablets  four times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info/sct",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 2,
+"dmd" : 322236009,
+"order sentence" : "paracetamol 500 mg tablets take 2 tablets four times a day",
+"dosage" :
+{
+    "text": "take 2 tablets  four times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "asNeeded": {
+        "asNeededCodableConcept": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": "76948002",
+                    "text": "severe pain"
+                }
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info/sct",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 3,
+"dmd" : 322236009,
+"order sentence" : "paracetamol 500 mg tablets take 2 tablets four times a day",
+"dosage" :
+{
+    "text": "take 2 tablets  four times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info/sct",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},

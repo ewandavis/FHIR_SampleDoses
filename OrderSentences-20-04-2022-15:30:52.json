@@ -1,0 +1,58 @@
+{"Date" : "20-04-2022-15:30:52",
+"FHIR Dosage Samples": 
+[{
+"row" : 10260,
+"dmd" : 323398002,
+"order sentence" : "2400 mg benzylpenicillin 600mg injection intermittent iv injection four times a day (starting at 6am)",
+"dosage" :
+{
+    "text": "2400 mg intermittent iv injection four times a day (starting at 6am)",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 2400,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ]
+}
+},
+{
+"row" : 10260,
+"dmd" : 323398002,
+"order sentence" : "2400 mg benzylpenicillin 600mg injection intermittent iv injection four times a day (starting at 6am) as needed",
+"dosage" :
+{
+    "text": "2400 mg intermittent iv injection four times a day (starting at 6am) as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 2400,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ]
+}
+}
+]}

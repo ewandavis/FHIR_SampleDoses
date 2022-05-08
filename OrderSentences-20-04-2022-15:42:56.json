@@ -1,0 +1,7394 @@
+{"Date" : "20-04-2022-15:42:56",
+"FHIR Dosage Samples": 
+[{
+"row" : 10000,
+"dmd" : 10075511000001100,
+"order sentence" : "morphine sulfate 10 mg in 1ml injection inject 0.5 ml subcutaneously every 1 to 2 hours",
+"dosage" :
+{
+    "text": "inject 0.5 ml subcutaneously every 1 to 2 hours",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "0.5",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 34206005,
+            "display": "subcutaneous"
+        }
+    }
+}
+},
+{
+"row" : 10000,
+"dmd" : 10075511000001100,
+"order sentence" : "morphine sulfate 10 mg in 1ml injection inject 0.5 ml subcutaneously every 1 to 2 hours as needed",
+"dosage" :
+{
+    "text": "inject 0.5 ml subcutaneously every 1 to 2 hours as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "0.5",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 34206005,
+            "display": "subcutaneous"
+        }
+    }
+}
+},
+{
+"row" : 10001,
+"dmd" : 10069611000001107,
+"order sentence" : "morphine (pca) 50 mg in 50ml injection inject 1 ml intravenously every 1 to 2 hours",
+"dosage" :
+{
+    "text": "inject 1 ml intravenously every 1 to 2 hours",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10001,
+"dmd" : 10069611000001107,
+"order sentence" : "morphine (pca) 50 mg in 50ml injection inject 1 ml intravenously every 1 to 2 hours as needed",
+"dosage" :
+{
+    "text": "inject 1 ml intravenously every 1 to 2 hours as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10002,
+"dmd" : 36051011000001102,
+"order sentence" : "240 mg gentamicin 80 mg in 2ml injection intravenous every twenty four hours",
+"dosage" :
+{
+    "text": "240 mg intravenous every twenty four hours",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 240,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10002,
+"dmd" : 36051011000001102,
+"order sentence" : "240 mg gentamicin 80 mg in 2ml injection intravenous every twenty four hours as needed",
+"dosage" :
+{
+    "text": "240 mg intravenous every twenty four hours as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 240,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10003,
+"dmd" : 7322511000001101,
+"order sentence" : "40 mg esomeprazole 40 mg injection intravenous once daily at 7am",
+"dosage" :
+{
+    "text": "40 mg intravenous once daily at 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 40,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10003,
+"dmd" : 7322511000001101,
+"order sentence" : "40 mg esomeprazole 40 mg injection intravenous once daily at 7am as needed",
+"dosage" :
+{
+    "text": "40 mg intravenous once daily at 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 40,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10004,
+"dmd" : 322143005,
+"order sentence" : "prochlorperazine 3mg buccal tablets disolve 1 tablet in mouth four times a day",
+"dosage" :
+{
+    "text": "disolve 1 tablet in mouth four times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 54471007,
+            "display": "buccal"
+        }
+    }
+}
+},
+{
+"row" : 10004,
+"dmd" : 322143005,
+"order sentence" : "prochlorperazine 3mg buccal tablets disolve 1 tablet in mouth four times a day for vomiting as needed",
+"dosage" :
+{
+    "text": "disolve 1 tablet in mouth four times a day for vomiting as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "asNeeded": {
+        "asNeededCodableConcept": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": 422400008,
+                    "text": "vomiting"
+                }
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 54471007,
+            "display": "buccal"
+        }
+    }
+}
+},
+{
+"row" : 10005,
+"dmd" : 323492000,
+"order sentence" : "1000 mg flucloxacillin 500 mg injection intravenous stat",
+"dosage" :
+{
+    "text": "1000 mg intravenous stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 1000,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10005,
+"dmd" : 323492000,
+"order sentence" : "1000 mg flucloxacillin 500 mg injection intravenous stat as needed",
+"dosage" :
+{
+    "text": "1000 mg intravenous stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 1000,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10006,
+"dmd" : 34813911000001102,
+"order sentence" : "acetylcysteine (nacsys) 600 mg effervescent tablets take 1 tablet once daily at 7am",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": null
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10006,
+"dmd" : 34813911000001102,
+"order sentence" : "acetylcysteine (nacsys) 600 mg effervescent tablets take 1 tablet once daily at 7am as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": null
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10007,
+"dmd" : 320818006,
+"order sentence" : "cetirizine 10 mg tablets take 1 tablet once daily at 7am",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10007,
+"dmd" : 320818006,
+"order sentence" : "cetirizine 10 mg tablets take 1 tablet once daily at 7am as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10008,
+"dmd" : 320935009,
+"order sentence" : "carbocisteine 375 mg capsules take 2 capsules twice daily at 8am and 8pm",
+"dosage" :
+{
+    "text": "take 2 capsules  twice daily at 8am and 8pm",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "20:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10008,
+"dmd" : 320935009,
+"order sentence" : "carbocisteine 375 mg capsules take 2 capsules twice daily at 8am and 8pm as needed",
+"dosage" :
+{
+    "text": "take 2 capsules  twice daily at 8am and 8pm as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "20:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10009,
+"dmd" : 325242002,
+"order sentence" : "gliclazide 80 mg tablets take tablets each morning",
+"dosage" :
+{
+    "text": "take tablets each morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10009,
+"dmd" : 325242002,
+"order sentence" : "gliclazide 80 mg tablets take tablets each morning as needed",
+"dosage" :
+{
+    "text": "take tablets each morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10010,
+"dmd" : 325728006,
+"order sentence" : "finasteride 5 mg tablets take 1 tablet stat",
+"dosage" :
+{
+    "text": "take 1 tablet  stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10010,
+"dmd" : 325728006,
+"order sentence" : "finasteride 5 mg tablets take 1 tablet stat as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10011,
+"dmd" : 329266003,
+"order sentence" : "thiamine 100 mg tablets take 1 tablet three times daily at 8am, 12 midday and 10pm",
+"dosage" :
+{
+    "text": "take 1 tablet  three times daily at 8am, 12 midday and 10pm",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10011,
+"dmd" : 329266003,
+"order sentence" : "thiamine 100 mg tablets take 1 tablet three times daily at 8am, 12 midday and 10pm as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  three times daily at 8am, 12 midday and 10pm as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10012,
+"dmd" : 321964006,
+"order sentence" : "paroxetine 20 mg tablets take 1 tablet once daily at 7am",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10012,
+"dmd" : 321964006,
+"order sentence" : "paroxetine 20 mg tablets take 1 tablet once daily at 7am as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10013,
+"dmd" : 317249006,
+"order sentence" : "ranitidine 150 mg tablets take 2 tablets once a day at night",
+"dosage" :
+{
+    "text": "take 2 tablets  once a day at night",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10013,
+"dmd" : 317249006,
+"order sentence" : "ranitidine 150 mg tablets take 2 tablets once a day at night as needed",
+"dosage" :
+{
+    "text": "take 2 tablets  once a day at night as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10014,
+"dmd" : 39108511000001108,
+"order sentence" : "nitrofurantoin 100 mg modified release capsules take 1 capsule twice a day",
+"dosage" :
+{
+    "text": "take 1 capsule  twice a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 2,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10014,
+"dmd" : 39108511000001108,
+"order sentence" : "nitrofurantoin 100 mg modified release capsules take 1 capsule twice a day as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  twice a day as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 2,
+            "period": 1
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10015,
+"dmd" : 330062008,
+"order sentence" : "allopurinol 300 mg tablets take 1 tablet stat",
+"dosage" :
+{
+    "text": "take 1 tablet  stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10015,
+"dmd" : 330062008,
+"order sentence" : "allopurinol 300 mg tablets take 1 tablet stat as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10016,
+"dmd" : 324570005,
+"order sentence" : "nitrofurantoin 50 mg capsules take 1 capsule four times daily - 7am;1pm;6pm;10pm",
+"dosage" :
+{
+    "text": "take 1 capsule  four times daily - 7am;1pm;6pm;10pm",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "13:00",
+                "18:00",
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10016,
+"dmd" : 324570005,
+"order sentence" : "nitrofurantoin 50 mg capsules take 1 capsule four times daily - 7am;1pm;6pm;10pm as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  four times daily - 7am;1pm;6pm;10pm as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "13:00",
+                "18:00",
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10017,
+"dmd" : 39704011000001103,
+"order sentence" : "sertraline 100 mg tablets take 1 tablet each morning",
+"dosage" :
+{
+    "text": "take 1 tablet  each morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10017,
+"dmd" : 39704011000001103,
+"order sentence" : "sertraline 100 mg tablets take 1 tablet each morning as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  each morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10018,
+"dmd" : 317117001,
+"order sentence" : "hyoscine butylbromide (buscopan) 10mg tablets take 2 tablets four times a day",
+"dosage" :
+{
+    "text": "take 2 tablets  four times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10018,
+"dmd" : 317117001,
+"order sentence" : "hyoscine butylbromide (buscopan) 10mg tablets take 2 tablets four times a day for pain as needed",
+"dosage" :
+{
+    "text": "take 2 tablets  four times a day for pain as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "asNeeded": {
+        "asNeededCodableConcept": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": 22253000,
+                    "text": "pain"
+                }
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10019,
+"dmd" : 4090311000001107,
+"order sentence" : "phytomenadione 10mg/1ml injection inject 1 ml intravenously alternate mornings at 08:00",
+"dosage" :
+{
+    "text": "inject 1 ml intravenously alternate mornings at 08:00",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10019,
+"dmd" : 4090311000001107,
+"order sentence" : "phytomenadione 10mg/1ml injection inject 1 ml intravenously alternate mornings at 08:00 as needed",
+"dosage" :
+{
+    "text": "inject 1 ml intravenously alternate mornings at 08:00 as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10020,
+"dmd" : 36040511000001101,
+"order sentence" : "lorazepam 4mg/1ml injection inject 0.125 ml intramuscularly four times a day 7,12,18,22",
+"dosage" :
+{
+    "text": "inject 0.125 ml intramuscularly four times a day 7,12,18,22",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "0.125",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 78421000,
+            "display": "intramuscular"
+        }
+    }
+}
+},
+{
+"row" : 10020,
+"dmd" : 36040511000001101,
+"order sentence" : "lorazepam 4mg/1ml injection inject 0.125 ml intramuscularly four times a day 7,12,18,22 for agitation as needed",
+"dosage" :
+{
+    "text": "inject 0.125 ml intramuscularly four times a day 7,12,18,22 for agitation as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "asNeeded": {
+        "asNeededCodableConcept": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": 24199005,
+                    "text": "agitation"
+                }
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "0.125",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 78421000,
+            "display": "intramuscular"
+        }
+    }
+}
+},
+{
+"row" : 10021,
+"dmd" : 4062511000001102,
+"order sentence" : "naloxone 400 micrograms in 1ml injection inject 0.1 ml subcutaneously every 30 minutes Maximum 200 mcg per 24 h",
+"dosage" :
+{
+    "text": "inject 0.1 ml subcutaneously every 30 minutes Maximum 200 mcg per 24 h",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "maxDosePerPeriod": {
+        "numerator": {
+            "value": "200",
+            "unit": "mcg",
+            "system": "http://snomed.info",
+            "code": "413516001"
+        },
+        "denominator": {
+            "value": "24",
+            "unit": "h",
+            "system": "http://snomed.info",
+            "code": "413516001"
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "0.1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 34206005,
+            "display": "subcutaneous"
+        }
+    }
+}
+},
+{
+"row" : 10021,
+"dmd" : 4062511000001102,
+"order sentence" : "naloxone 400 micrograms in 1ml injection inject 0.1 ml subcutaneously every 30 minutes Maximum 200 mcg per 24 h as needed",
+"dosage" :
+{
+    "text": "inject 0.1 ml subcutaneously every 30 minutes Maximum 200 mcg per 24 h as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "maxDosePerPeriod": {
+        "numerator": {
+            "value": "200",
+            "unit": "mcg",
+            "system": "http://snomed.info",
+            "code": "413516001"
+        },
+        "denominator": {
+            "value": "24",
+            "unit": "h",
+            "system": "http://snomed.info",
+            "code": "413516001"
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "0.1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 34206005,
+            "display": "subcutaneous"
+        }
+    }
+}
+},
+{
+"row" : 10022,
+"dmd" : 36029011000001104,
+"order sentence" : "naloxone 400micrograms in 1ml injection inject 0.5 ml intravenously every 30 minutes",
+"dosage" :
+{
+    "text": "inject 0.5 ml intravenously every 30 minutes",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "0.5",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10022,
+"dmd" : 36029011000001104,
+"order sentence" : "naloxone 400micrograms in 1ml injection inject 0.5 ml intravenously every 30 minutes as needed",
+"dosage" :
+{
+    "text": "inject 0.5 ml intravenously every 30 minutes as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "0.5",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10023,
+"dmd" : 35368211000001106,
+"order sentence" : "glycerol 4 g suppositories administer rectally suppositories every twenty four hours",
+"dosage" :
+{
+    "text": "administer rectally suppositories every twenty four hours",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "suppositories",
+                "system": "http://snomed.info",
+                "code": "430293001"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 37161004,
+            "display": "rectal"
+        }
+    }
+}
+},
+{
+"row" : 10023,
+"dmd" : 35368211000001106,
+"order sentence" : "glycerol 4 g suppositories administer rectally suppositories every twenty four hours as needed",
+"dosage" :
+{
+    "text": "administer rectally suppositories every twenty four hours as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "suppositories",
+                "system": "http://snomed.info",
+                "code": "430293001"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 37161004,
+            "display": "rectal"
+        }
+    }
+}
+},
+{
+"row" : 10024,
+"dmd" : 323396003,
+"order sentence" : "1200 mg benzylpenicillin 1200 mg injection intravenous four times daily - 7am;1pm;6pm;10pm",
+"dosage" :
+{
+    "text": "1200 mg intravenous four times daily - 7am;1pm;6pm;10pm",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "13:00",
+                "18:00",
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 1200,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10024,
+"dmd" : 323396003,
+"order sentence" : "1200 mg benzylpenicillin 1200 mg injection intravenous four times daily - 7am;1pm;6pm;10pm as needed",
+"dosage" :
+{
+    "text": "1200 mg intravenous four times daily - 7am;1pm;6pm;10pm as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "13:00",
+                "18:00",
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 1200,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10025,
+"dmd" : 36022411000001102,
+"order sentence" : "ondansetron 4 mg in 2ml injection inject 2 ml intravenously every 6 hours",
+"dosage" :
+{
+    "text": "inject 2 ml intravenously every 6 hours",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10025,
+"dmd" : 36022411000001102,
+"order sentence" : "ondansetron 4 mg in 2ml injection inject 2 ml intravenously every 6 hours for vomiting as needed",
+"dosage" :
+{
+    "text": "inject 2 ml intravenously every 6 hours for vomiting as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "asNeeded": {
+        "asNeededCodableConcept": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": 422400008,
+                    "text": "vomiting"
+                }
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10026,
+"dmd" : 36128311000001101,
+"order sentence" : "morphine 10mg in 5ml oral solution take 5 ml every 2 hours",
+"dosage" :
+{
+    "text": "take 5 ml  every 2 hours",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "5",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10026,
+"dmd" : 36128311000001101,
+"order sentence" : "morphine 10mg in 5ml oral solution take 5 ml every 2 hours for severe pain as needed",
+"dosage" :
+{
+    "text": "take 5 ml  every 2 hours for severe pain as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "asNeeded": {
+        "asNeededCodableConcept": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": 76948002,
+                    "text": "severe pain"
+                }
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "5",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10027,
+"dmd" : 321247000,
+"order sentence" : "chlordiazepoxide 5 mg capsules take 2 capsules every 1 to 2 hours (select prn)",
+"dosage" :
+{
+    "text": "take 2 capsules  every 1 to 2 hours (select prn)",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10027,
+"dmd" : 321247000,
+"order sentence" : "chlordiazepoxide 5 mg capsules take 2 capsules every 1 to 2 hours (select prn) as needed",
+"dosage" :
+{
+    "text": "take 2 capsules  every 1 to 2 hours (select prn) as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10028,
+"dmd" : 321989000,
+"order sentence" : "citalopram 10 mg tablets take 1 tablet once daily morning 7am",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily morning 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10028,
+"dmd" : 321989000,
+"order sentence" : "citalopram 10 mg tablets take 1 tablet once daily morning 7am as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily morning 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10029,
+"dmd" : 321247000,
+"order sentence" : "chlordiazepoxide 5 mg capsules take 5 capsules four times a day",
+"dosage" :
+{
+    "text": "take 5 capsules  four times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "5",
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10029,
+"dmd" : 321247000,
+"order sentence" : "chlordiazepoxide 5 mg capsules take 5 capsules four times a day as needed",
+"dosage" :
+{
+    "text": "take 5 capsules  four times a day as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "5",
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10030,
+"dmd" : 415557006,
+"order sentence" : "solifenacin succinate 5 mg tablets take 1 tablet once daily at 7am",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10030,
+"dmd" : 415557006,
+"order sentence" : "solifenacin succinate 5 mg tablets take 1 tablet once daily at 7am as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10031,
+"dmd" : 323013002,
+"order sentence" : "gabapentin 100 mg capsules take capsules twice daily at 7am and 10pm",
+"dosage" :
+{
+    "text": "take capsules twice daily at 7am and 10pm",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10031,
+"dmd" : 323013002,
+"order sentence" : "gabapentin 100 mg capsules take capsules twice daily at 7am and 10pm as needed",
+"dosage" :
+{
+    "text": "take capsules twice daily at 7am and 10pm as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10032,
+"dmd" : 319306002,
+"order sentence" : "nicorandil 20 mg tablets take 1 tablet twice daily morning and evening",
+"dosage" :
+{
+    "text": "take 1 tablet  twice daily morning and evening",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN",
+                "EVE"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10032,
+"dmd" : 319306002,
+"order sentence" : "nicorandil 20 mg tablets take 1 tablet twice daily morning and evening as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  twice daily morning and evening as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN",
+                "EVE"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10033,
+"dmd" : 321152004,
+"order sentence" : "temazepam 10mg tablets take 1 tablet once a day at night",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day at night",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10033,
+"dmd" : 321152004,
+"order sentence" : "temazepam 10mg tablets take 1 tablet once a day at night for sleep as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day at night for sleep as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededCodableConcept": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": 248220008,
+                    "text": "sleep"
+                }
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10034,
+"dmd" : 766311000001100,
+"order sentence" : "lithium carbonate (priadel) 400mg modified release tablets take 2 tablets at night",
+"dosage" :
+{
+    "text": "take 2 tablets  at night",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": null
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10034,
+"dmd" : 766311000001100,
+"order sentence" : "lithium carbonate (priadel) 400mg modified release tablets take 2 tablets at night as needed",
+"dosage" :
+{
+    "text": "take 2 tablets  at night as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": null
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10035,
+"dmd" : 36021511000001106,
+"order sentence" : "prochlorperazine 12.5 mg in 1 ml injection inject 1 ml intramuscularly stat",
+"dosage" :
+{
+    "text": "inject 1 ml intramuscularly stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 78421000,
+            "display": "intramuscular"
+        }
+    }
+}
+},
+{
+"row" : 10035,
+"dmd" : 36021511000001106,
+"order sentence" : "prochlorperazine 12.5 mg in 1 ml injection inject 1 ml intramuscularly stat as needed",
+"dosage" :
+{
+    "text": "inject 1 ml intramuscularly stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 78421000,
+            "display": "intramuscular"
+        }
+    }
+}
+},
+{
+"row" : 10036,
+"dmd" : 327545000,
+"order sentence" : "cyanocobalamin 50 micrograms tablets take 1 tablet once a day in the morning",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10036,
+"dmd" : 327545000,
+"order sentence" : "cyanocobalamin 50 micrograms tablets take 1 tablet once a day in the morning as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10037,
+"dmd" : 7393611000001100,
+"order sentence" : "1000 mg paracetamol 1 g in 100 ml intravenous infusion intravenous stat",
+"dosage" :
+{
+    "text": "1000 mg intravenous stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 1000,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10037,
+"dmd" : 7393611000001100,
+"order sentence" : "1000 mg paracetamol 1 g in 100 ml intravenous infusion intravenous stat as needed",
+"dosage" :
+{
+    "text": "1000 mg intravenous stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 1000,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10038,
+"dmd" : 36044111000001101,
+"order sentence" : "hyoscine butylbromide 20 mg in 1ml injection inject 1 ml subcutaneously stat",
+"dosage" :
+{
+    "text": "inject 1 ml subcutaneously stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 34206005,
+            "display": "subcutaneous"
+        }
+    }
+}
+},
+{
+"row" : 10038,
+"dmd" : 36044111000001101,
+"order sentence" : "hyoscine butylbromide 20 mg in 1ml injection inject 1 ml subcutaneously stat as needed",
+"dosage" :
+{
+    "text": "inject 1 ml subcutaneously stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 34206005,
+            "display": "subcutaneous"
+        }
+    }
+}
+},
+{
+"row" : 10039,
+"dmd" : 36126811000001109,
+"order sentence" : "morphine sulfate 15 mg sustained release tablets take 1 tablet twice daily at 7am and 10pm",
+"dosage" :
+{
+    "text": "take 1 tablet  twice daily at 7am and 10pm",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10039,
+"dmd" : 36126811000001109,
+"order sentence" : "morphine sulfate 15 mg sustained release tablets take 1 tablet twice daily at 7am and 10pm as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  twice daily at 7am and 10pm as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10040,
+"dmd" : 3652111000001109,
+"order sentence" : "morphine sulfate 10 mg (zomorph) modified release capsules take 1 capsule stat",
+"dosage" :
+{
+    "text": "take 1 capsule  stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": null
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10040,
+"dmd" : 3652111000001109,
+"order sentence" : "morphine sulfate 10 mg (zomorph) modified release capsules take 1 capsule stat as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": null
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10041,
+"dmd" : 329251001,
+"order sentence" : "pyridoxine 10 mg tablets take 1 tablet each morning",
+"dosage" :
+{
+    "text": "take 1 tablet  each morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10041,
+"dmd" : 329251001,
+"order sentence" : "pyridoxine 10 mg tablets take 1 tablet each morning as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  each morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10042,
+"dmd" : 319316005,
+"order sentence" : "lercanidipine 10 mg tablets take 2 tablets once daily at 7am",
+"dosage" :
+{
+    "text": "take 2 tablets  once daily at 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10042,
+"dmd" : 319316005,
+"order sentence" : "lercanidipine 10 mg tablets take 2 tablets once daily at 7am as needed",
+"dosage" :
+{
+    "text": "take 2 tablets  once daily at 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10043,
+"dmd" : 325329000,
+"order sentence" : "carbimazole 5 mg tablets take 1 tablet once a day in the morning",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10043,
+"dmd" : 325329000,
+"order sentence" : "carbimazole 5 mg tablets take 1 tablet once a day in the morning as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10044,
+"dmd" : 318900007,
+"order sentence" : "ramipril 1.25 mg capsules take 1 capsule once daily at 10pm",
+"dosage" :
+{
+    "text": "take 1 capsule  once daily at 10pm",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10044,
+"dmd" : 318900007,
+"order sentence" : "ramipril 1.25 mg capsules take 1 capsule once daily at 10pm as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  once daily at 10pm as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10045,
+"dmd" : 28808711000001109,
+"order sentence" : "prednisolone 20 mg tablets take 2 tablets once daily at 7am",
+"dosage" :
+{
+    "text": "take 2 tablets  once daily at 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10045,
+"dmd" : 28808711000001109,
+"order sentence" : "prednisolone 20 mg tablets take 2 tablets once daily at 7am as needed",
+"dosage" :
+{
+    "text": "take 2 tablets  once daily at 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10046,
+"dmd" : 330116003,
+"order sentence" : "baclofen 10 mg tablets take 1 tablet three times a day (morning, lunchtime + night)",
+"dosage" :
+{
+    "text": "take 1 tablet  three times a day (morning, lunchtime + night)",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN",
+                "CD",
+                "NIGHT"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10046,
+"dmd" : 330116003,
+"order sentence" : "baclofen 10 mg tablets take 1 tablet three times a day (morning, lunchtime + night) as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  three times a day (morning, lunchtime + night) as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN",
+                "CD",
+                "NIGHT"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10047,
+"dmd" : 36051011000001102,
+"order sentence" : "200 mg gentamicin 80 mg in 2ml injection intravenous stat",
+"dosage" :
+{
+    "text": "200 mg intravenous stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 200,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10047,
+"dmd" : 36051011000001102,
+"order sentence" : "200 mg gentamicin 80 mg in 2ml injection intravenous stat as needed",
+"dosage" :
+{
+    "text": "200 mg intravenous stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 200,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10048,
+"dmd" : 323991002,
+"order sentence" : "2000 mg ceftriaxone 2g injection intravenous stat",
+"dosage" :
+{
+    "text": "2000 mg intravenous stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 2000,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10048,
+"dmd" : 323991002,
+"order sentence" : "2000 mg ceftriaxone 2g injection intravenous stat as needed",
+"dosage" :
+{
+    "text": "2000 mg intravenous stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 2000,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10049,
+"dmd" : 36128311000001101,
+"order sentence" : "morphine sulfate. 10mg in 5ml oral solution take 5 ml every 4 to 6 hours (select prn)",
+"dosage" :
+{
+    "text": "take 5 ml  every 4 to 6 hours (select prn)",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "5",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10049,
+"dmd" : 36128311000001101,
+"order sentence" : "morphine sulfate. 10mg in 5ml oral solution take 5 ml every 4 to 6 hours (select prn) for pain as needed",
+"dosage" :
+{
+    "text": "take 5 ml  every 4 to 6 hours (select prn) for pain as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "asNeeded": {
+        "asNeededCodableConcept": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": 22253000,
+                    "text": "pain"
+                }
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "5",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10050,
+"dmd" : 39708511000001104,
+"order sentence" : "dihydrocodeine 30 mg tablets take 1 tablet three times a day",
+"dosage" :
+{
+    "text": "take 1 tablet  three times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 3,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10050,
+"dmd" : 39708511000001104,
+"order sentence" : "dihydrocodeine 30 mg tablets take 1 tablet three times a day as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  three times a day as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 3,
+            "period": 1
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10051,
+"dmd" : 36126411000001107,
+"order sentence" : "20 mg morphine sulfate (zomorph) 10mg over 12 hours mr capsule oral twice a day at 08:00 and 20:00",
+"dosage" :
+{
+    "text": "20 mg oral twice a day at 08:00 and 20:00",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "20:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 20,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10051,
+"dmd" : 36126411000001107,
+"order sentence" : "20 mg morphine sulfate (zomorph) 10mg over 12 hours mr capsule oral twice a day at 08:00 and 20:00 as needed",
+"dosage" :
+{
+    "text": "20 mg oral twice a day at 08:00 and 20:00 as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "20:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 20,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10052,
+"dmd" : 408036003,
+"order sentence" : "rosuvastatin 10 mg tablets take 1 tablet once a day at night",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day at night",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10052,
+"dmd" : 408036003,
+"order sentence" : "rosuvastatin 10 mg tablets take 1 tablet once a day at night as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day at night as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10053,
+"dmd" : 316954000,
+"order sentence" : "sodium bicarbonate 500 mg capsules take 2 capsules three times a day (8am, 1pm and 10pm)",
+"dosage" :
+{
+    "text": "take 2 capsules  three times a day (8am, 1pm and 10pm)",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "13:00",
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10053,
+"dmd" : 316954000,
+"order sentence" : "sodium bicarbonate 500 mg capsules take 2 capsules three times a day (8am, 1pm and 10pm) as needed",
+"dosage" :
+{
+    "text": "take 2 capsules  three times a day (8am, 1pm and 10pm) as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "13:00",
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10054,
+"dmd" : 317548002,
+"order sentence" : "sennosides 7.5 mg tablets take 1 tablet night",
+"dosage" :
+{
+    "text": "take 1 tablet  night",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10054,
+"dmd" : 317548002,
+"order sentence" : "sennosides 7.5 mg tablets take 1 tablet night as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  night as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10055,
+"dmd" : 330061001,
+"order sentence" : "allopurinol 100mg tablets take 2 tablets once a day in the morning",
+"dosage" :
+{
+    "text": "take 2 tablets  once a day in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10055,
+"dmd" : 330061001,
+"order sentence" : "allopurinol 100mg tablets take 2 tablets once a day in the morning as needed",
+"dosage" :
+{
+    "text": "take 2 tablets  once a day in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10056,
+"dmd" : 318901006,
+"order sentence" : "ramipril 2.5 mg capsules take 1 capsule stat",
+"dosage" :
+{
+    "text": "take 1 capsule  stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10056,
+"dmd" : 318901006,
+"order sentence" : "ramipril 2.5 mg capsules take 1 capsule stat as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10057,
+"dmd" : 8025411000001104,
+"order sentence" : "melatonin 2 mg (circadin) modified-release tablets (camhs) take 1 tablet night",
+"dosage" :
+{
+    "text": "take 1 tablet  night",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10057,
+"dmd" : 8025411000001104,
+"order sentence" : "melatonin 2 mg (circadin) modified-release tablets (camhs) take 1 tablet night as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  night as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10058,
+"dmd" : 406786007,
+"order sentence" : "aripiprazole 5 mg tablets take 1 tablet once daily at 7am",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10058,
+"dmd" : 406786007,
+"order sentence" : "aripiprazole 5 mg tablets take 1 tablet once daily at 7am as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10059,
+"dmd" : 320822001,
+"order sentence" : "loratadine 10 mg tablets take 1 tablet once daily at 7am",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10059,
+"dmd" : 320822001,
+"order sentence" : "loratadine 10 mg tablets take 1 tablet once daily at 7am as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10060,
+"dmd" : 327438003,
+"order sentence" : "ferrous sulfate 200 mg tablets take 1 tablet morning",
+"dosage" :
+{
+    "text": "take 1 tablet  morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10060,
+"dmd" : 327438003,
+"order sentence" : "ferrous sulfate 200 mg tablets take 1 tablet morning as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10061,
+"dmd" : 321614001,
+"order sentence" : "olanzapine 10 mg tablets take 1 tablet every night",
+"dosage" :
+{
+    "text": "take 1 tablet  every night",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10061,
+"dmd" : 321614001,
+"order sentence" : "olanzapine 10 mg tablets take 1 tablet every night as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  every night as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10062,
+"dmd" : 317897002,
+"order sentence" : "digoxin 250 microgram tablets take tablets once a day in the morning",
+"dosage" :
+{
+    "text": "take tablets once a day in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10062,
+"dmd" : 317897002,
+"order sentence" : "digoxin 250 microgram tablets take tablets once a day in the morning as needed",
+"dosage" :
+{
+    "text": "take tablets once a day in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10063,
+"dmd" : 17527711000001105,
+"order sentence" : "colecalciferol 10 micrograms (400 units) capsules take 1 capsule once a day in the morning",
+"dosage" :
+{
+    "text": "take 1 capsule  once a day in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10063,
+"dmd" : 17527711000001105,
+"order sentence" : "colecalciferol 10 micrograms (400 units) capsules take 1 capsule once a day in the morning as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  once a day in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10064,
+"dmd" : 325329000,
+"order sentence" : "carbimazole 5 mg tablets take 1 tablet once a day in the morning",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10064,
+"dmd" : 325329000,
+"order sentence" : "carbimazole 5 mg tablets take 1 tablet once a day in the morning as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10065,
+"dmd" : 327366007,
+"order sentence" : "bicalutamide 50 mg tablets take 1 tablet once a day in the morning",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10065,
+"dmd" : 327366007,
+"order sentence" : "bicalutamide 50 mg tablets take 1 tablet once a day in the morning as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10066,
+"dmd" : 36022411000001102,
+"order sentence" : "ondansetron 2 mg in 1ml injection inject 2 ml intravenously three times a day",
+"dosage" :
+{
+    "text": "inject 2 ml intravenously three times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 3,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10066,
+"dmd" : 36022411000001102,
+"order sentence" : "ondansetron 2 mg in 1ml injection inject 2 ml intravenously three times a day for vomiting as needed",
+"dosage" :
+{
+    "text": "inject 2 ml intravenously three times a day for vomiting as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 3,
+            "period": 1
+        }
+    },
+    "asNeeded": {
+        "asNeededCodableConcept": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": 422400008,
+                    "text": "vomiting"
+                }
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10067,
+"dmd" : 323739006,
+"order sentence" : "1000 mg amoxicillin 1000 mg injection intravenous three times daily at 6am, 2pm and 10pm",
+"dosage" :
+{
+    "text": "1000 mg intravenous three times daily at 6am, 2pm and 10pm",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "06:00",
+                "14:00",
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 1000,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10067,
+"dmd" : 323739006,
+"order sentence" : "1000 mg amoxicillin 1000 mg injection intravenous three times daily at 6am, 2pm and 10pm as needed",
+"dosage" :
+{
+    "text": "1000 mg intravenous three times daily at 6am, 2pm and 10pm as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "06:00",
+                "14:00",
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 1000,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10068,
+"dmd" : 13871211000001104,
+"order sentence" : "100 mg hydrocortisone sodium succinate 100 mg injection intravenous stat",
+"dosage" :
+{
+    "text": "100 mg intravenous stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 100,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10068,
+"dmd" : 13871211000001104,
+"order sentence" : "100 mg hydrocortisone sodium succinate 100 mg injection intravenous stat as needed",
+"dosage" :
+{
+    "text": "100 mg intravenous stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 100,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10069,
+"dmd" : 407824008,
+"order sentence" : "oseltamivir 75 mg capsules take 1 capsule twice daily at 7am and 10pm",
+"dosage" :
+{
+    "text": "take 1 capsule  twice daily at 7am and 10pm",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10069,
+"dmd" : 407824008,
+"order sentence" : "oseltamivir 75 mg capsules take 1 capsule twice daily at 7am and 10pm as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  twice daily at 7am and 10pm as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10070,
+"dmd" : 32071811000001109,
+"order sentence" : "dexamethasone 2mg soluble tablets (sugar free) take 1 tablet stat",
+"dosage" :
+{
+    "text": "take 1 tablet  stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10070,
+"dmd" : 32071811000001109,
+"order sentence" : "dexamethasone 2mg soluble tablets (sugar free) take 1 tablet stat as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10071,
+"dmd" : 321618003,
+"order sentence" : "olanzapine 2.5 mg tablets take 1 tablet every nightat 22:00",
+"dosage" :
+{
+    "text": "take 1 tablet  every nightat 22:00",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10071,
+"dmd" : 321618003,
+"order sentence" : "olanzapine 2.5 mg tablets take 1 tablet every nightat 22:00 as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  every nightat 22:00 as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10072,
+"dmd" : 318900007,
+"order sentence" : "ramipril 1.25 mg capsules take 1 capsule twice a day (morning and evening)",
+"dosage" :
+{
+    "text": "take 1 capsule  twice a day (morning and evening)",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN",
+                "EVE"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10072,
+"dmd" : 318900007,
+"order sentence" : "ramipril 1.25 mg capsules take 1 capsule twice a day (morning and evening) as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  twice a day (morning and evening) as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN",
+                "EVE"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10073,
+"dmd" : 408050008,
+"order sentence" : "ramipril 2.5 mg tablets take 1 tablet once a day in the morning",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10073,
+"dmd" : 408050008,
+"order sentence" : "ramipril 2.5 mg tablets take 1 tablet once a day in the morning as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once a day in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10074,
+"dmd" : 322985008,
+"order sentence" : "lamotrigine 25 mg tablets take tablets morning",
+"dosage" :
+{
+    "text": "take tablets morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10074,
+"dmd" : 322985008,
+"order sentence" : "lamotrigine 25 mg tablets take tablets morning as needed",
+"dosage" :
+{
+    "text": "take tablets morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10075,
+"dmd" : 318604001,
+"order sentence" : "bisoprolol fumarate 1.25 mg tablets take 1 tablet at 08:00 and 18:00",
+"dosage" :
+{
+    "text": "take 1 tablet  at 08:00 and 18:00",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "18:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10075,
+"dmd" : 318604001,
+"order sentence" : "bisoprolol fumarate 1.25 mg tablets take 1 tablet at 08:00 and 18:00 as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  at 08:00 and 18:00 as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "18:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10076,
+"dmd" : 39710311000001106,
+"order sentence" : "doxycycline 100 mg dispersible tablets take 1 tablet every morning",
+"dosage" :
+{
+    "text": "take 1 tablet  every morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10076,
+"dmd" : 39710311000001106,
+"order sentence" : "doxycycline 100 mg dispersible tablets take 1 tablet every morning as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  every morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10077,
+"dmd" : 408050008,
+"order sentence" : "ramipril 2.5 mg tablets take 1 tablet at nighttime",
+"dosage" :
+{
+    "text": "take 1 tablet  at nighttime",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10077,
+"dmd" : 408050008,
+"order sentence" : "ramipril 2.5 mg tablets take 1 tablet at nighttime as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  at nighttime as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10078,
+"dmd" : 321247000,
+"order sentence" : "chlordiazepoxide 5 mg capsules take 4 capsules four times a day",
+"dosage" :
+{
+    "text": "take 4 capsules  four times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "4",
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10078,
+"dmd" : 321247000,
+"order sentence" : "chlordiazepoxide 5 mg capsules take 4 capsules four times a day as needed",
+"dosage" :
+{
+    "text": "take 4 capsules  four times a day as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 4,
+            "period": 1
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "4",
+                "unit": "capsules",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10079,
+"dmd" : 16671111000001106,
+"order sentence" : "zitu noradrenaline 4mg in 50ml of 5% glucose central line 50 ml four times a day",
+"dosage" :
+{
+    "text": "central line 50 ml  four times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "50",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ]
+}
+},
+{
+"row" : 10079,
+"dmd" : 16671111000001106,
+"order sentence" : "zitu noradrenaline 4mg in 50ml of 5% glucose central line 50 ml four times a day as needed",
+"dosage" :
+{
+    "text": "central line 50 ml  four times a day as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "50",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ]
+}
+},
+{
+"row" : 10080,
+"dmd" : 36022211000001101,
+"order sentence" : "80 mg omeprazole 40 mg infusion intravenous stat",
+"dosage" :
+{
+    "text": "80 mg intravenous stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 80,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10080,
+"dmd" : 36022211000001101,
+"order sentence" : "80 mg omeprazole 40 mg infusion intravenous stat as needed",
+"dosage" :
+{
+    "text": "80 mg intravenous stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 80,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10081,
+"dmd" : 317972000,
+"order sentence" : "furosemide 40 mg tablets take 2 tablets each morning",
+"dosage" :
+{
+    "text": "take 2 tablets  each morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10081,
+"dmd" : 317972000,
+"order sentence" : "furosemide 40 mg tablets take 2 tablets each morning as needed",
+"dosage" :
+{
+    "text": "take 2 tablets  each morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10082,
+"dmd" : 321196004,
+"order sentence" : "diazepam 2 mg tablets take 1 tablet twice daily. 08:00 and 22:00",
+"dosage" :
+{
+    "text": "take 1 tablet  twice daily. 08:00 and 22:00",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10082,
+"dmd" : 321196004,
+"order sentence" : "diazepam 2 mg tablets take 1 tablet twice daily. 08:00 and 22:00 as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  twice daily. 08:00 and 22:00 as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10083,
+"dmd" : 317309001,
+"order sentence" : "lansoprazole 30 mg capsules take 1 capsule twice daily at 7am and 8pm",
+"dosage" :
+{
+    "text": "take 1 capsule  twice daily at 7am and 8pm",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "20:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10083,
+"dmd" : 317309001,
+"order sentence" : "lansoprazole 30 mg capsules take 1 capsule twice daily at 7am and 8pm as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  twice daily at 7am and 8pm as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "20:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10084,
+"dmd" : 325356003,
+"order sentence" : "dexamethasone 2 mg tablets take 2 tablets at 08:00 and 12:00",
+"dosage" :
+{
+    "text": "take 2 tablets  at 08:00 and 12:00",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10084,
+"dmd" : 325356003,
+"order sentence" : "dexamethasone 2 mg tablets take 2 tablets at 08:00 and 12:00 as needed",
+"dosage" :
+{
+    "text": "take 2 tablets  at 08:00 and 12:00 as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "12:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10085,
+"dmd" : 321196004,
+"order sentence" : "diazepam 2 mg tablets take 1 tablet three times daily - 7am;1pm;10pm",
+"dosage" :
+{
+    "text": "take 1 tablet  three times daily - 7am;1pm;10pm",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "13:00",
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10085,
+"dmd" : 321196004,
+"order sentence" : "diazepam 2 mg tablets take 1 tablet three times daily - 7am;1pm;10pm as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  three times daily - 7am;1pm;10pm as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00",
+                "13:00",
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10086,
+"dmd" : 416946001,
+"order sentence" : "duloxetine 60mg capsules take 1 capsule in the morning",
+"dosage" :
+{
+    "text": "take 1 capsule  in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10086,
+"dmd" : 416946001,
+"order sentence" : "duloxetine 60mg capsules take 1 capsule in the morning as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10087,
+"dmd" : 34813911000001102,
+"order sentence" : "acetylcysteine (nacsys) 600 mg effervescent tablets take 1 tablet once daily at 7am",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": null
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10087,
+"dmd" : 34813911000001102,
+"order sentence" : "acetylcysteine (nacsys) 600 mg effervescent tablets take 1 tablet once daily at 7am as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": null
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10088,
+"dmd" : 318604001,
+"order sentence" : "bisoprolol fumarate 1.25 mg tablets take 2 tablets in the morning",
+"dosage" :
+{
+    "text": "take 2 tablets  in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10088,
+"dmd" : 318604001,
+"order sentence" : "bisoprolol fumarate 1.25 mg tablets take 2 tablets in the morning as needed",
+"dosage" :
+{
+    "text": "take 2 tablets  in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10089,
+"dmd" : 318857003,
+"order sentence" : "lisinopril 2.5mg tablets take 1 tablet once daily at 0700",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 0700",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10089,
+"dmd" : 318857003,
+"order sentence" : "lisinopril 2.5mg tablets take 1 tablet once daily at 0700 as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 0700 as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10090,
+"dmd" : 19525211000001103,
+"order sentence" : "linagliptin 5mg tablets take tablets in the morning",
+"dosage" :
+{
+    "text": "take tablets in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10090,
+"dmd" : 19525211000001103,
+"order sentence" : "linagliptin 5mg tablets take tablets in the morning as needed",
+"dosage" :
+{
+    "text": "take tablets in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 0,
+                "unit": "tablets",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10091,
+"dmd" : 321612002,
+"order sentence" : "olanzapine 5mg tablets take 1 tablet once daily at 2200",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 2200",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "22:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10091,
+"dmd" : 321612002,
+"order sentence" : "olanzapine 5mg tablets take 1 tablet once daily at 2200 as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 2200 as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "22:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10092,
+"dmd" : 35367911000001103,
+"order sentence" : "verapamil 120 mg modified release tablets take 1 tablet once daily at 7am",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10092,
+"dmd" : 35367911000001103,
+"order sentence" : "verapamil 120 mg modified release tablets take 1 tablet once daily at 7am as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  once daily at 7am as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "07:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10093,
+"dmd" : 9831411000001101,
+"order sentence" : "ivabradine 5 mg tablets take 1 tablet twice a day in the morning and at teatime",
+"dosage" :
+{
+    "text": "take 1 tablet  twice a day in the morning and at teatime",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN",
+                "AFT.late"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10093,
+"dmd" : 9831411000001101,
+"order sentence" : "ivabradine 5 mg tablets take 1 tablet twice a day in the morning and at teatime as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  twice a day in the morning and at teatime as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN",
+                "AFT.late"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10094,
+"dmd" : 324919005,
+"order sentence" : "quinine sulphate 200mg tablets take 1 tablet at night",
+"dosage" :
+{
+    "text": "take 1 tablet  at night",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10094,
+"dmd" : 324919005,
+"order sentence" : "quinine sulphate 200mg tablets take 1 tablet at night as needed",
+"dosage" :
+{
+    "text": "take 1 tablet  at night as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "NIGHT"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "tablet",
+                "system": "http://snomed.info",
+                "code": "428673006"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10095,
+"dmd" : 36128311000001101,
+"order sentence" : "morphine sulphate 10mg in 5ml oral liquid take 10 ml every hour",
+"dosage" :
+{
+    "text": "take 10 ml  every hour",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "10",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10095,
+"dmd" : 36128311000001101,
+"order sentence" : "morphine sulphate 10mg in 5ml oral liquid take 10 ml every hour for pain as needed",
+"dosage" :
+{
+    "text": "take 10 ml  every hour for pain as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "asNeeded": {
+        "asNeededCodableConcept": {
+            "coding": [
+                {
+                    "system": "http://snomed.info/sct",
+                    "code": 22253000,
+                    "text": "pain"
+                }
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "10",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10096,
+"dmd" : 508311000001104,
+"order sentence" : "7 mg warfarin for inpatients maintenance oral once a day at 2pm (for warfarin only)",
+"dosage" :
+{
+    "text": "7 mg oral once a day at 2pm (for warfarin only)",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "14:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 7,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10096,
+"dmd" : 508311000001104,
+"order sentence" : "7 mg warfarin for inpatients maintenance oral once a day at 2pm (for warfarin only) as needed",
+"dosage" :
+{
+    "text": "7 mg oral once a day at 2pm (for warfarin only) as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "14:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 7,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10097,
+"dmd" : 36124911000001107,
+"order sentence" : "midazolam 10mg in 2ml injection inject 2 ml subcutaneously every twenty four hours",
+"dosage" :
+{
+    "text": "inject 2 ml subcutaneously every twenty four hours",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 34206005,
+            "display": "subcutaneous"
+        }
+    }
+}
+},
+{
+"row" : 10097,
+"dmd" : 36124911000001107,
+"order sentence" : "midazolam 10mg in 2ml injection inject 2 ml subcutaneously every twenty four hours as needed",
+"dosage" :
+{
+    "text": "inject 2 ml subcutaneously every twenty four hours as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 0,
+            "period": 0
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 34206005,
+            "display": "subcutaneous"
+        }
+    }
+}
+},
+{
+"row" : 10098,
+"dmd" : 36022411000001102,
+"order sentence" : "ondansetron 4 mg in 2ml injection inject 2 ml intramuscularly three times a day",
+"dosage" :
+{
+    "text": "inject 2 ml intramuscularly three times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 3,
+            "period": 1
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 78421000,
+            "display": "intramuscular"
+        }
+    }
+}
+},
+{
+"row" : 10098,
+"dmd" : 36022411000001102,
+"order sentence" : "ondansetron 4 mg in 2ml injection inject 2 ml intramuscularly three times a day as needed",
+"dosage" :
+{
+    "text": "inject 2 ml intramuscularly three times a day as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": "d",
+            "frequency": 3,
+            "period": 1
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 78421000,
+            "display": "intramuscular"
+        }
+    }
+}
+},
+{
+"row" : 10099,
+"dmd" : 13893711000001102,
+"order sentence" : "100 mg hydrocortisone sodium succinate 100 mg injection intravenous three times a day",
+"dosage" :
+{
+    "text": "100 mg intravenous three times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 100,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10099,
+"dmd" : 13893711000001102,
+"order sentence" : "100 mg hydrocortisone sodium succinate 100 mg injection intravenous three times a day as needed",
+"dosage" :
+{
+    "text": "100 mg intravenous three times a day as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 100,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10100,
+"dmd" : 36137711000001100,
+"order sentence" : "chlorphenamine 10mg/1ml injection inject 1 ml intravenously three times a day",
+"dosage" :
+{
+    "text": "inject 1 ml intravenously three times a day",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10100,
+"dmd" : 36137711000001100,
+"order sentence" : "chlorphenamine 10mg/1ml injection inject 1 ml intravenously three times a day as needed",
+"dosage" :
+{
+    "text": "inject 1 ml intravenously three times a day as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": null,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10101,
+"dmd" : 36565711000001107,
+"order sentence" : "40 mg enoxaparin - inhixa 40mg (4,000units) pre-filled syringe subcutaneous twice a day 08:00 & 17:00",
+"dosage" :
+{
+    "text": "40 mg subcutaneous twice a day 08:00 & 17:00",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "17:00"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 40,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 34206005,
+            "display": "subcutaneous"
+        }
+    }
+}
+},
+{
+"row" : 10101,
+"dmd" : 36565711000001107,
+"order sentence" : "40 mg enoxaparin - inhixa 40mg (4,000units) pre-filled syringe subcutaneous twice a day 08:00 & 17:00 as needed",
+"dosage" :
+{
+    "text": "40 mg subcutaneous twice a day 08:00 & 17:00 as needed",
+    "timing": {
+        "repeat": {
+            "timeOfDay": [
+                "08:00",
+                "17:00"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": 40,
+                "unit": "mg",
+                "system": "http://unitsofmeasure.org",
+                "code": "mg"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 34206005,
+            "display": "subcutaneous"
+        }
+    }
+}
+},
+{
+"row" : 10102,
+"dmd" : 36022411000001102,
+"order sentence" : "ondansetron 4 mg in 2ml injection inject 2 ml intravenously stat",
+"dosage" :
+{
+    "text": "inject 2 ml intravenously stat",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10102,
+"dmd" : 36022411000001102,
+"order sentence" : "ondansetron 4 mg in 2ml injection inject 2 ml intravenously stat as needed",
+"dosage" :
+{
+    "text": "inject 2 ml intravenously stat as needed",
+    "timing": {
+        "repeat": {
+            "periodUnit": null,
+            "frequency": 1,
+            "period": null
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "2",
+                "unit": "ml",
+                "system": "http://unitsofmeasure.org",
+                "code": "mL"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 47625008,
+            "display": "intravenous"
+        }
+    }
+}
+},
+{
+"row" : 10103,
+"dmd" : 318900007,
+"order sentence" : "ramipril 1.25 mg capsules take 1 capsule in the morning",
+"dosage" :
+{
+    "text": "take 1 capsule  in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10103,
+"dmd" : 318900007,
+"order sentence" : "ramipril 1.25 mg capsules take 1 capsule in the morning as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": "428641000"
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10104,
+"dmd" : 9038411000001109,
+"order sentence" : "duloxetine 30mg capsules take 1 capsule in the morning",
+"dosage" :
+{
+    "text": "take 1 capsule  in the morning",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": null
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10104,
+"dmd" : 9038411000001109,
+"order sentence" : "duloxetine 30mg capsules take 1 capsule in the morning as needed",
+"dosage" :
+{
+    "text": "take 1 capsule  in the morning as needed",
+    "timing": {
+        "repeat": {
+            "when": [
+                "MORN"
+            ]
+        }
+    },
+    "asNeeded": {
+        "asNeededBoolean": true
+    },
+    "doseAndRate": [
+        {
+            "doseQuantity": {
+                "value": "1",
+                "unit": "capsule",
+                "system": "http://snomed.info",
+                "code": null
+            }
+        }
+    ],
+    "route": {
+        "coding": {
+            "system": "http://snomed.info/sct",
+            "code": 26643006,
+            "display": "oral"
+        }
+    }
+}
+},
+{
+"row" : 10105,
+"dmd" : 318783003,
+"order sentence" : "doxazosin 4 mg tablets take 2 tablets once a day in the morning",
+"dosage" :
